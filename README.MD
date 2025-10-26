@@ -42,7 +42,6 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de IA Generativa, o ebook é do nicho de IA Generativa e o subnicho em Podcasts, Faça referencia a podcast nerds ja existentes, o título deve ser épico e curto, me liste 5 variações de títulos                                            
 
-
 | conteúdo | Faça um texto para ebook , com foco em como usar IAS para desenvolver um podcast, listando as principais ferramentas, Explique sempre de uma maneira simples e deixe o texto enxuto, sempre deixe um título sugestivo por tópico |
 
 
