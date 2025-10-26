@@ -45,7 +45,6 @@ ChatGPT：
 
 
 
-
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
@@ -68,7 +67,3 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Autor
 
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
