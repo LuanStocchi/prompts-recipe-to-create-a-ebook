@@ -45,6 +45,8 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em como usar IAS para desenvolver um podcast, listando as principais ferramentas, Explique sempre de uma maneira simples e deixe o texto enxuto, sempre deixe um título sugestivo por tópico  |
 
 
+
+
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
