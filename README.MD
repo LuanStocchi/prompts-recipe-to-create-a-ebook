@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/"
+    src="./assets/Lucid_Origin_create_a_book_with_a_AI_sign_surrouding_by_tech_p_2.jpg"
     width="400"  
 />
 </p>
