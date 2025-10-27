@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/LuanStocchi/prompts-recipe-to-create-a-ebook/output/POD.AI - Como criar um podcast com IAs.pdf" "View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/LuanStocchi/prompts-recipe-to-create-a-ebook/blob/main/output/POD.AI - Como criar um podcast com IAs.pdf" "View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
